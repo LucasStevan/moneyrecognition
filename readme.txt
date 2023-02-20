@@ -1,0 +1,1 @@
+Para a execução correta, fique atento à versão Keras e tensorflow
